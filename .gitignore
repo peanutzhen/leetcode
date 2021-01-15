@@ -1,0 +1,12 @@
+# macOS File System
+.DS_Store
+*/.DS_Store
+
+# executable files
+bin/
+
+# python
+__pycache__/
+
+# editor
+.vscode/
