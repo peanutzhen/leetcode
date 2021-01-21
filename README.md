@@ -17,6 +17,6 @@
 | 3    | [#面试题 02.01 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | 益智     | [C++](solutions/003_Duplicated_Node.cpp)                  | 🔥    |
 | 4    | [#ACM 洪水]()                                                | 益智     | [C](solutions/004_Flooded.c)                              | 🔥🔥🔥  |
 | 5    | [#26 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 数组     | [Python](solutions/005_Remove_Duplicates_Sorted_Array.py) | 🔥    |
-| 6    |                                                              |          |                                                           |      |
+| 6    | [#29 两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | 益智     | [C](solutions/006_Divide_Two_Integers.c)                  | 🔥🔥   |
 |      |                                                              |          |                                                           |      |
 
