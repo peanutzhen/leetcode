@@ -1,4 +1,9 @@
 #include <stdio.h>
+/*
+ * 非常暴力的做法，迭代，就硬迭代
+ * 并作结果溢出检测
+ * 简单情形直接ifelse解决，避免Time exceed
+ */
 
 int
 divide(int dividend, int divisor)
