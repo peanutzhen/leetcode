@@ -21,4 +21,5 @@
 | 7    | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation/) | 数组     | [Python](solutions/007_Next_Permutation.py)               | 🔥🔥🔥  |
 | 8    | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 二分查找 | [C](solutions/008_Search_in_Rotated_Sorted_Array.c)       | 🔥    |
 | 9    | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 链表     | [C](solutions/009_Add_Two_Sum.c)                          | 🔥    |
+| 10   | [#36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | 哈希表   | [Python](solutions/010_Valid_Sudoku.py)                   | 🔥    |
 
