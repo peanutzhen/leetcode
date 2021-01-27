@@ -1,6 +1,6 @@
 # Leetcode刷题记录
 
-记录一下自己的刷题思路，题目来源很杂，不只leetcode，还有别的地方的，但是大部分是leetcode。
+记录一下自己的刷题思路，题目来源很杂，不只leetcode，还有别的地方的，但是大部分是leetcode。题目思路我直接写在代码注释里，方便阅读理解。
 
 咨询问题可以联系邮箱或者知乎私信，每天都会看。
 
@@ -22,4 +22,5 @@
 | 8    | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 二分查找 | [C](solutions/008_Search_in_Rotated_Sorted_Array.c)       | 🔥    |
 | 9    | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 链表     | [C](solutions/009_Add_Two_Sum.c)                          | 🔥    |
 | 10   | [#36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | 哈希表   | [Python](solutions/010_Valid_Sudoku.py)                   | 🔥    |
+| 11   | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 树       | [C](solutions/011_Symmetric_Tree.c)                       | 🔥    |
 
