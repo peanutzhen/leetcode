@@ -25,4 +25,5 @@
 | 11   | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 树       | [C](solutions/011_Symmetric_Tree.c)                       | 🔥    |
 | 12   | [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)    | 二分查找 | [C](solutions/012_Pow.c)                                  | 🔥    |
 | 13   | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | 动态规划 | [C](solutions/013_Unique_Path.c)                          | 🔥    |
+| 14   | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 双指针   | [Python](solutions/014_search_2d_matrix.py)               | 🔥    |
 
