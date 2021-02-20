@@ -26,4 +26,5 @@
 | 12   | [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)    | 二分查找 | [C](solutions/012_Pow.c)                                  | 🔥    |
 | 13   | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | 动态规划 | [C](solutions/013_Unique_Path.c)                          | 🔥    |
 | 14   | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 双指针   | [Python](solutions/014_search_2d_matrix.py)               | 🔥    |
+| 15   | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)     | 数组     | [Go](solutions/015_two_sum.go)                            | 🔥    |
 
