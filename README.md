@@ -30,4 +30,5 @@
 | 14   | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 双指针   | [Python](solutions/014_search_2d_matrix.py)                  | 🔥    |
 | 15   | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)     | 数组     | [Go](solutions/015_two_sum.go)                               | 🔥    |
 | 16   | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 字符串   | [Go](solutions/016_longest_substring_without_repeating_char.go) | 🔥🔥   |
+| 17   | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 动态规划 | [Go](solutions/017_longest_palindromic_substring.go)         | 🔥🔥   |
 
