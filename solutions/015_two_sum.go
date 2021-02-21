@@ -1,4 +1,4 @@
-package solutions
+package main
 
 // ignore 为忽略nums[ignore]这项元素
 // 用于查找nums是否存在target元素
