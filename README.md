@@ -32,4 +32,5 @@
 | 16   | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 字符串   | [Go](solutions/016_longest_substring_without_repeating_char.go) | 🔥🔥   |
 | 17   | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 动态规划 | [Go](solutions/017_longest_palindromic_substring.go)         | 🔥🔥   |
 | 18   | [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 益智     | [Go](solutions/018_zigzag_conversion.go)                     | 🔥    |
+| 19   | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | 数学     | [Go](solutions/019_reverse_integer.go)                       | 🔥    |
 
