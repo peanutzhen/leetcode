@@ -35,4 +35,5 @@
 | 19   | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | 数学     | [Go](solutions/019_reverse_integer.go)                       | 🔥    |                                    |
 | 20   | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | 数学     | [Go](solutions/020_palindrome_number.go)                     | 🔥    |                                    |
 | 21   | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 动态规划 | [Go](solutions/021_regular_expression_matching.go)           | 🔥🔥🔥  | 状态方程有点难想到                 |
+| 22   | [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | 双指针   | [Go](solutions/022_container_with_most_water.go)             | 🔥    | 双指针经典题                       |
 
