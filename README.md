@@ -45,4 +45,5 @@
 | 29   | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 链表     | [Go](solutions/029_rm_node.go)                               | 🔥    |                                    |
 | 30   | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 栈       | [Go](solutions/030_valid_parentheses.go)                     | 🔥    |                                    |
 | 31   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 链表     | [Go](solutions/031_merge_sorted_list.go)                     | 🔥    |                                    |
+| 32   | [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 回朔     | [Go](solutions/032_gen_parentheses.go)                       | 🔥🔥   | 回朔算法很适合这题                 |
 
