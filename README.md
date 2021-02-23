@@ -42,6 +42,7 @@
 | 26   | [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 双指针   | [Go](solutions/026_three_sum_closet.go)                      | 🔥    | 比三数之和简单                     |
 | 27   | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | DFS      | [Go](solutions/027_combinations_phone.go)                    | 🔥    | 好久没写DFS，有点生疏              |
 | 28   | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)       | 双指针   | [Go](solutions/028_four_num_sum.go)                          | 🔥    | 三数之和变形题                     |
-| 29   | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 链表     | [Go](solutions/029_rm_node.go)                               | 🔥    | so easy                            |
-| 30   | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 栈       | [Go](solutions/030_valid_parentheses.go)                     | 🔥    | so easy                            |
+| 29   | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 链表     | [Go](solutions/029_rm_node.go)                               | 🔥    |                                    |
+| 30   | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 栈       | [Go](solutions/030_valid_parentheses.go)                     | 🔥    |                                    |
+| 31   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 链表     | [Go](solutions/031_merge_sorted_list.go)                     | 🔥    |                                    |
 
