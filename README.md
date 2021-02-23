@@ -41,4 +41,5 @@
 | 25   | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)       | 双指针   | [Go](solutions/025_three_num_sum.go)                         | 🔥🔥   | 如何避免重复答案很重要             |
 | 26   | [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 双指针   | [Go](solutions/026_three_sum_closet.go)                      | 🔥    | 比三数之和简单                     |
 | 27   | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | DFS      | [Go](solutions/027_combinations_phone.go)                    | 🔥    | 好久没写DFS，有点生疏              |
+| 28   | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)       | 双指针   | [Go](solutions/028_four_num_sum.go)                          | 🔥    | 三数之和变形题                     |
 
