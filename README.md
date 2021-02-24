@@ -46,4 +46,5 @@
 | 30   | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 栈       | [Go](solutions/030_valid_parentheses.go)                     | 🔥    |                                    |
 | 31   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 链表     | [Go](solutions/031_merge_sorted_list.go)                     | 🔥    |                                    |
 | 32   | [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 回朔     | [Go](solutions/032_gen_parentheses.go)                       | 🔥🔥   | 回朔算法很适合这题                 |
+| 33   | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 堆       | [Go](solutions/033_merge_k_sorted_list.go)                   | 🔥    | 构造数组+排序+构造链表             |
 
