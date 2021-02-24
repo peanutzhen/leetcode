@@ -11,7 +11,7 @@ func recursion(bytes []byte, left, unpair, n int) {
 	if left < n { // 至多添加n个'('
 		bytes = append(bytes, '(')
 		recursion(bytes, left+1, unpair+1, n)
-		bytes = bytes[:len(bytes)-1]
+		bytes = bytes[:len(bytes)-1] // 记得擦去修改，即删掉'('
 	}
 	if unpair > 0 { // ')'至多添加unpair次
 		bytes = append(bytes, ')')
