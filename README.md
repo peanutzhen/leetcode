@@ -50,4 +50,5 @@
 | 34   | [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 递归     | [Go](solutions/034_swap_adjacent_node.go)                    | 🔥    | 往递归想就简单了                   |
 | 35   | [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | 链表     | [Go](solutions/035_reverse_k_nodes.go)                       | 🔥🔥🔥  | 此题难在设计                       |
 | 36   | [27. 移除元素](https://leetcode-cn.com/problems/remove-element/) | 数组     | [Go](solutions/036_remove_elements.go)                       | 🔥    | 假移除真交换                       |
+| 37   | [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 字符串   | [Go](solutions/037_strStr.go)                                | 🔥    | 哈希判断字符串相等有点意思         |
 
