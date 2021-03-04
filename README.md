@@ -58,4 +58,5 @@
 | 42   | [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 回朔算法    | [Go](solutions/042_solve_sudoku.go)                          | **   | 代码写的不够快还是                 |
 | 43   | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 递归        | [Go](solutions/043_count_and_say.go)                         | *    | 无聊                               |
 | 44   | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 回朔算法    | [Go](solutions/044_combination_sum.go)                       | *    |                                    |
+| 45   | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | 回朔算法    | [Go](solutions/045_combination_sum2.go)                      | *    | 044的变形题                        |
 
