@@ -55,4 +55,5 @@
 | 39   | [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 动态规划/栈 | [Go](solutions/039_longest_valid_parentheses.go)             | 🔥🔥🔥  | 看了题解才会，草                   |
 | 40   | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 二分查找    | [Go](solutions/040_first_last_index_target.go)               | 🔥    |                                    |
 | 41   | [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 二分查找    | [Go](solutions/041_search_insert_index.go)                   | 🔥    | 二分查找变形题                     |
+| 42   | [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 回朔算法    | [Go](solutions/042_solve_sudoku.go)                          | 🔥🔥   | 代码写的不够快还是                 |
 
