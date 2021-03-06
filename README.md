@@ -60,4 +60,5 @@
 | 44   | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 回朔算法    | [Go](solutions/044_combination_sum.go)                       | *    |                                    |
 | 45   | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | 回朔算法    | [Go](solutions/045_combination_sum2.go)                      | *    | 044的变形题                        |
 | 46   | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | 原地哈希    | [Go](solutions/046_first_missing_positive.go)                | ***  | O(n)算法有点难想 操                |
+| 47   | [Shopee 笔试题1.有效的括号字符串](https://www.nowcoder.com/questionTerminal/2a9453b8c4a74b11a360edce506df26d) | 回朔算法    | [Go](solutions/047_check_valid_string.go)                    | **   |                                    |
 
