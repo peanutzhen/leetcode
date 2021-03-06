@@ -59,4 +59,5 @@
 | 43   | [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/) | 递归        | [Go](solutions/043_count_and_say.go)                         | *    | 无聊                               |
 | 44   | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 回朔算法    | [Go](solutions/044_combination_sum.go)                       | *    |                                    |
 | 45   | [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | 回朔算法    | [Go](solutions/045_combination_sum2.go)                      | *    | 044的变形题                        |
+| 46   | [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) | 原地哈希    | [Go](solutions/046_first_missing_positive.go)                | ***  | O(n)算法有点难想 操                |
 
