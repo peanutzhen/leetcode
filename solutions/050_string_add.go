@@ -39,14 +39,9 @@ func addStrings(num1 string, num2 string) string {
 		rtv[rtvLen] = tmp + '0'
 		idx--
 	}
-	// 加法溢出
 	if carry {
 		rtv[rtvLen-1] = '1'
+		return string(rtv)
 	}
-	// 前导 0 清除
-	var nonZeroIndex int
-	for rtv[nonZeroIndex] == 0 {
-		nonZeroIndex++
-	}
-	return string(rtv[nonZeroIndex:])
+	return string(rtv[1:])
 }
