@@ -66,4 +66,5 @@
 | 50   | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) | 字符串      | [Go](solutions/050_string_add.go)                            | *    |                                    |
 | 51   | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 动态规划    | [Go](solutions/051_wildcard_matching.go)                     | **   | NMSL                               |
 | 52   | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | 贪心算法    | [Go](solutions/052_jump_game.go)                             | *    | So easy                            |
-| 53   | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | 回朔算法    | [053_permute.go](solutions/053_permute.go)                   | **   | 减少空间复杂度值得思考             |
+| 53   | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | 回朔算法    | [Go](solutions/053_permute.go)                               | **   | 减少空间复杂度值得思考             |
+| 54   | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | 回朔算法    | [Go](solutions/054_permute_unique.go)                        | *    | 避免重复答案                       |
