@@ -68,3 +68,4 @@
 | 52   | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | 贪心算法    | [Go](solutions/052_jump_game.go)                             | *    | So easy                            |
 | 53   | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | 回朔算法    | [Go](solutions/053_permute.go)                               | **   | 减少空间复杂度值得思考             |
 | 54   | [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | 回朔算法    | [Go](solutions/054_permute_unique.go)                        | *    | 避免重复答案                       |
+| 55   | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 益智        | [Go](solutions/055_rotate_photo.go)                          | ***  | 没想到O(1)空间复杂度解法           |
