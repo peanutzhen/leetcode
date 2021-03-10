@@ -65,4 +65,5 @@
 | 49   | [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 数学        | [Go](solutions/049_string_multiply.go)                       | ***  | NMSL                               |
 | 50   | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) | 字符串      | [Go](solutions/050_string_add.go)                            | *    |                                    |
 | 51   | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 动态规划    | [Go](solutions/051_wildcard_matching.go)                     | **   | NMSL                               |
+| 52   | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | 贪心算法    | [Go](solutions/052_jump_game.go)                             | *    | So easy                            |
 
