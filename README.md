@@ -80,4 +80,5 @@
 | 64   | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 字符串        | [Go](solutions/065_length_last_word.go)                      | *    | XSWL                               |
 | 65   | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 代码设计      | [Go](solutions/066_gen_matrix.go)                            | *    | 格局小了                           |
 | 66   | [60. 排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | 数学          | [Go](solutions/067_get_k_permute.go)                         | **   | 找出规律即可                       |
+| 67   | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 链表          | [Go](solutions/068_right_shift_list.go)                      | *    |                                    |
 
