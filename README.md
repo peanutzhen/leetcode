@@ -71,3 +71,4 @@
 | 55   | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 益智        | [Go](solutions/055_rotate_photo.go)                          | ***  | 没想到O(1)空间复杂度解法           |
 | 56   | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 字符串      | [Go](solutions/056_group_anagrams.go)                        | **   | 词频+哈希表                        |
 | 57   | [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)     | 回朔算法    | [Go](solutions/057_n_queens.go)                              | *    |                                    |
+| 58   | [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | 回朔算法    | [Go](solutions/058_n_queens_2.go)                            | *    |                                    |
