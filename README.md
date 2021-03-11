@@ -73,9 +73,10 @@
 | 57   | [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)     | 回朔算法      | [Go](solutions/057_n_queens.go)                              | *    |                                    |
 | 58   | [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | 回朔算法      | [Go](solutions/058_n_queens_2.go)                            | *    |                                    |
 | 59   | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 动态规划/分治 | [Go](solutions/059_max_sub_array.go)                         | *    | 注意分治法！                       |
-| 60   | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | 益智          | [Go](solutions/060_spiral_order.go)                          | **   | 妙在标记已读数字解决边界问题       |
+| 60   | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | 代码设计      | [Go](solutions/060_spiral_order.go)                          | **   | 妙在标记已读数字解决边界问题       |
 | 61   | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 贪心算法      | [Go](solutions/061_can_jump.go)                              | *    |                                    |
 | 62   | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 益智          | [Go](solutions/062_merge_intervals.go)                       | *    |                                    |
 | 63   | [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) | 益智          | [Go](solutions/064_insert_intervals.go)                      | *    |                                    |
 | 64   | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 字符串        | [Go](solutions/065_length_last_word.go)                      | *    | XSWL                               |
+| 65   | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 代码设计      | [Go](solutions/066_gen_matrix.go)                            | *    | 格局小了                           |
 
