@@ -77,3 +77,5 @@
 | 61   | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 贪心算法      | [Go](solutions/061_can_jump.go)                              | *    |                                    |
 | 62   | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 益智          | [Go](solutions/062_merge_intervals.go)                       | *    |                                    |
 | 63   | [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) | 益智          | [Go](solutions/064_insert_intervals.go)                      | *    |                                    |
+| 64   | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 字符串        | [Go](solutions/065_length_last_word.go)                      | *    | XSWL                               |
+
