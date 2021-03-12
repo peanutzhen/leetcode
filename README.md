@@ -86,4 +86,5 @@
 | 70   | [65. 有效数字](https://leetcode-cn.com/problems/valid-number/) | 有穷自动机    | [Go](solutions/071_is_number.go)                             | ***  | 编译原理的有穷自动机模型           |
 | 71   | [66. 加一](https://leetcode-cn.com/problems/plus-one/)       | 数组          | [Go](solutions/072_plus_one.go)                              | *    |                                    |
 | 72   | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 字符串        | [Go](solutions/073_binary_add.go)                            | *    |                                    |
+| 73   | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 二分查找      | [Go](solutions/073_binary_add.go)                            | *    |                                    |
 
