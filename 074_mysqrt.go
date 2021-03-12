@@ -2,7 +2,7 @@ package main
 
 // 二分查找
 func mySqrt(x int) int {
-	low, high := 0, 2147483647
+	low, high := 0, x
 	ans := 0
 	for low <= high {
 		ans = (low + high) / 2
