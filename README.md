@@ -83,4 +83,5 @@
 | 67   | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 链表          | [Go](solutions/068_right_shift_list.go)                      | *    |                                    |
 | 68   | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 动态规划      | [Go](solutions/069_unique_path_obstacle.go)                  | *    | 注意滚动数组思想                   |
 | 69   | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 动态规划      | [Go](solutions/070_min_path_sum.go)                          | *    | 滚动数组                           |
+| 70   | [65. 有效数字](https://leetcode-cn.com/problems/valid-number/) | 有穷自动机    | [Go](solutions/071_is_number.go)                             | ***  | 编译原理的有穷自动机模型           |
 
