@@ -87,4 +87,5 @@
 | 71   | [66. 加一](https://leetcode-cn.com/problems/plus-one/)       | 数组          | [Go](solutions/072_plus_one.go)                              | *    |                                    |
 | 72   | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 字符串        | [Go](solutions/073_binary_add.go)                            | *    |                                    |
 | 73   | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 二分查找      | [Go](solutions/073_binary_add.go)                            | *    |                                    |
+| 74   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 动态规划      | [Go](solutions/075_climb_stairs.go)                          | *    |                                    |
 
