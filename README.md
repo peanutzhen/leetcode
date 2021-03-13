@@ -76,22 +76,23 @@
 | 60   | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | 代码设计      | [Go](solutions/060_spiral_order.go)                          | **   | 妙在标记已读数字解决边界问题       |
 | 61   | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 贪心算法      | [Go](solutions/061_can_jump.go)                              | *    |                                    |
 | 62   | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 益智          | [Go](solutions/062_merge_intervals.go)                       | *    |                                    |
-| 63   | [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) | 益智          | [Go](solutions/064_insert_intervals.go)                      | *    |                                    |
-| 64   | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 字符串        | [Go](solutions/065_length_last_word.go)                      | *    | XSWL                               |
-| 65   | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 代码设计      | [Go](solutions/066_gen_matrix.go)                            | *    | 格局小了                           |
-| 66   | [60. 排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | 数学          | [Go](solutions/067_get_k_permute.go)                         | **   | 找出规律即可                       |
-| 67   | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 链表          | [Go](solutions/068_right_shift_list.go)                      | *    |                                    |
-| 68   | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 动态规划      | [Go](solutions/069_unique_path_obstacle.go)                  | *    | 注意滚动数组思想                   |
-| 69   | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 动态规划      | [Go](solutions/070_min_path_sum.go)                          | *    | 滚动数组                           |
-| 70   | [65. 有效数字](https://leetcode-cn.com/problems/valid-number/) | 有穷自动机    | [Go](solutions/071_is_number.go)                             | ***  | 编译原理的有穷自动机模型           |
-| 71   | [66. 加一](https://leetcode-cn.com/problems/plus-one/)       | 数组          | [Go](solutions/072_plus_one.go)                              | *    |                                    |
-| 72   | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 字符串        | [Go](solutions/073_binary_add.go)                            | *    |                                    |
-| 73   | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 二分查找      | [Go](solutions/073_binary_add.go)                            | *    |                                    |
-| 74   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 动态规划      | [Go](solutions/075_climb_stairs.go)                          | *    |                                    |
-| 75   | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) | 字符串        | [Go](solutions/076_simplify_path.go)                         | **   | 分割+状态机                        |
-| 76   | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 动态规划      | [Go](solutions/077_min_edit_distance.go)                     | ***  | 又是看题解的一天                   |
-| 77   | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 益智          | [Go](solutions/078_set_matrix_zeros.go)                      | *    | 注意O(1)空间复杂度的解法           |
-| 78   | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 数组          | [Go](solutions/079_sort_color.go)                            | *    |                                    |
-| 79   | [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 双指针        | [Go](solutions/080_min_window_substr.go)                     | ***  | 词频+滑动窗口                      |
-| 80   | [77. 组合](https://leetcode-cn.com/problems/combinations/)   | 回朔算法      | [Go](solutions/081_combine.go)                               | *    |                                    |
+| 63   | [78. 子集](https://leetcode-cn.com/problems/subsets/)        | 回朔算法      | [Go](solutions/063_subsets.go)                               | *    |                                    |
+| 64   | [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) | 益智          | [Go](solutions/064_insert_intervals.go)                      | *    |                                    |
+| 65   | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 字符串        | [Go](solutions/065_length_last_word.go)                      | *    | XSWL                               |
+| 66   | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 代码设计      | [Go](solutions/066_gen_matrix.go)                            | *    | 格局小了                           |
+| 67   | [60. 排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | 数学          | [Go](solutions/067_get_k_permute.go)                         | **   | 找出规律即可                       |
+| 68   | [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/) | 链表          | [Go](solutions/068_right_shift_list.go)                      | *    |                                    |
+| 69   | [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 动态规划      | [Go](solutions/069_unique_path_obstacle.go)                  | *    | 注意滚动数组思想                   |
+| 70   | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 动态规划      | [Go](solutions/070_min_path_sum.go)                          | *    | 滚动数组                           |
+| 71   | [65. 有效数字](https://leetcode-cn.com/problems/valid-number/) | 有穷自动机    | [Go](solutions/071_is_number.go)                             | ***  | 编译原理的有穷自动机模型           |
+| 72   | [66. 加一](https://leetcode-cn.com/problems/plus-one/)       | 数组          | [Go](solutions/072_plus_one.go)                              | *    |                                    |
+| 73   | [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/) | 字符串        | [Go](solutions/073_binary_add.go)                            | *    |                                    |
+| 74   | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 二分查找      | [Go](solutions/073_binary_add.go)                            | *    |                                    |
+| 75   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 动态规划      | [Go](solutions/075_climb_stairs.go)                          | *    |                                    |
+| 76   | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) | 字符串        | [Go](solutions/076_simplify_path.go)                         | **   | 分割+状态机                        |
+| 77   | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 动态规划      | [Go](solutions/077_min_edit_distance.go)                     | ***  | 又是看题解的一天                   |
+| 78   | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 益智          | [Go](solutions/078_set_matrix_zeros.go)                      | *    | 注意O(1)空间复杂度的解法           |
+| 79   | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 数组          | [Go](solutions/079_sort_color.go)                            | *    |                                    |
+| 80   | [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 双指针        | [Go](solutions/080_min_window_substr.go)                     | ***  | 词频+滑动窗口                      |
+| 81   | [77. 组合](https://leetcode-cn.com/problems/combinations/)   | 回朔算法      | [Go](solutions/081_combine.go)                               | *    |                                    |
 
