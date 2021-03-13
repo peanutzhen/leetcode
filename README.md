@@ -95,4 +95,5 @@
 | 79   | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 数组          | [Go](solutions/079_sort_color.go)                            | *    |                                    |
 | 80   | [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 双指针        | [Go](solutions/080_min_window_substr.go)                     | ***  | 词频+滑动窗口                      |
 | 81   | [77. 组合](https://leetcode-cn.com/problems/combinations/)   | 回朔算法      | [Go](solutions/081_combine.go)                               | *    |                                    |
+| 82   | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | 回朔算法      | [Go](solutions/082_exist_word.go)                            | **   |                                    |
 
