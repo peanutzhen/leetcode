@@ -89,4 +89,5 @@
 | 73   | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 二分查找      | [Go](solutions/073_binary_add.go)                            | *    |                                    |
 | 74   | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 动态规划      | [Go](solutions/075_climb_stairs.go)                          | *    |                                    |
 | 75   | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) | 字符串        | [Go](solutions/076_simplify_path.go)                         | **   | 分割+状态机                        |
+| 76   | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 动态规划      | [Go](solutions/077_min_edit_distance.go)                     | ***  | 又是看题解的一天                   |
 
