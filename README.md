@@ -91,4 +91,5 @@
 | 75   | [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/) | 字符串        | [Go](solutions/076_simplify_path.go)                         | **   | 分割+状态机                        |
 | 76   | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 动态规划      | [Go](solutions/077_min_edit_distance.go)                     | ***  | 又是看题解的一天                   |
 | 77   | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 益智          | [Go](solutions/078_set_matrix_zeros.go)                      | *    | 注意O(1)空间复杂度的解法           |
+| 78   | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | 数组          | [Go](solutions/079_sort_color.go)                            | *    |                                    |
 
