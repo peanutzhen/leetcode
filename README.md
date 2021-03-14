@@ -99,4 +99,5 @@
 | 83   | [80. 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | 双指针        | [Go](solutions/083_remove_duplicated_item2.go)               | ***  | O(n) O(1)难想到                    |
 | 84   | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | DFS           | [Go](solutions/084_search_rotated_array2.go)                 | *    | 这个有重复元素                     |
 | 85   | [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 双指针        | [Go](solutions/085_remove_duplicate_listnode.go)             | *    |                                    |
+| 86   | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 双指针        | [Go](solutions/086_remove_duplicate_listnode2.go)            | *    |                                    |
 
