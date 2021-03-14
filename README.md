@@ -97,4 +97,5 @@
 | 81   | [77. 组合](https://leetcode-cn.com/problems/combinations/)   | 回朔算法      | [Go](solutions/081_combine.go)                               | *    |                                    |
 | 82   | [79. 单词搜索](https://leetcode-cn.com/problems/word-search/) | 回朔算法      | [Go](solutions/082_exist_word.go)                            | **   |                                    |
 | 83   | [80. 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | 双指针        | [Go](solutions/083_remove_duplicated_item2.go)               | ***  | O(n) O(1)难想到                    |
+| 84   | [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | DFS           | [Go](solutions/084_search_rotated_array2.go)                 | *    | 这个有重复元素                     |
 
