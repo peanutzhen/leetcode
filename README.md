@@ -109,4 +109,5 @@
 | 93   | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | 动态规划      | [Go](solutions/093_num_decoding.go)                          | *    |                                    |
 | 94   | [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 链表          | [Go](solutions/094_reverse_list_m_to_n.go)                   | *    | 难在设计                           |
 | 95   | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 二叉树        | [Go](solutions/095_inorder_traversal.go)                     | *    |                                    |
+| 96   | [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 递归          | [Go](solutions/096_different_binary_trees.go)                | ***  | 又是看题解的一天                   |
 
