@@ -102,4 +102,5 @@
 | 86   | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 双指针        | [Go](solutions/086_remove_duplicate_listnode2.go)            | *    |                                    |
 | 87   | [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 单调栈        | [Go](solutions/087_largest_rectangle_in_histogram.go)        | ***  | 学到了学到了                       |
 | 88   | [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 单调栈        | [Go](solutions/088_maxsize_one_matrix.go)                    | ***  | 上一题的变形题                     |
+| 89   | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | 双指针        | [Go](solutions/089_partition_list.go)                        | *    |                                    |
 
