@@ -111,4 +111,5 @@
 | 95   | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 二叉树        | [Go](solutions/095_inorder_traversal.go)                     | *    |                                    |
 | 96   | [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 递归          | [Go](solutions/096_different_binary_trees.go)                | ***  | 又是看题解的一天                   |
 | 97   | [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 动态规划      | [Go](solutions/097_num_trees.go)                             | *    | 卡特兰数列有点东西                 |
+| 98   | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 二叉树        | [Go](solutions/098_valid_BST.go)                             | *    | BST中序遍历的性质                  |
 
