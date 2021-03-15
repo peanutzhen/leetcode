@@ -106,4 +106,5 @@
 | 90   | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 双指针        | [Go](solutions/090_merge_sort_array.go)                      | *    |                                    |
 | 91   | [89. 格雷编码](https://leetcode-cn.com/problems/gray-code/)  | 数学          | [Go](solutions/091_gray_code.go)                             | *    | 找规律题                           |
 | 92   | [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)  | 回朔算法      | [Go](solutions/092_subsets2.go)                              | *    | 三数之和避免重复解                 |
+| 93   | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | 动态规划      | [Go](solutions/093_num_decoding.go)                          | *    |                                    |
 
