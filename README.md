@@ -103,4 +103,5 @@
 | 87   | [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 单调栈        | [Go](solutions/087_largest_rectangle_in_histogram.go)        | ***  | 学到了学到了                       |
 | 88   | [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 单调栈        | [Go](solutions/088_maxsize_one_matrix.go)                    | ***  | 上一题的变形题                     |
 | 89   | [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | 双指针        | [Go](solutions/089_partition_list.go)                        | *    |                                    |
+| 90   | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 双指针        | [Go](solutions/090_merge_sort_array.go)                      | *    |                                    |
 
