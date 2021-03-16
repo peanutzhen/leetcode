@@ -121,3 +121,4 @@
 | 105  | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 递归          | [Go](solutions/105_build_tree.go)                            | *    | 先序遍历中序遍历性质               |
 | 106  | [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 递归          | [Go](solutions/106_build_tree2.go)                           | *    |                                    |
 | 107  | [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | BFS           | [Go](solutions/107_level_traversal2.go)                      | *    |                                    |
+| 108  | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 递归          | [Go](solutions/108_array_to_BST.go)                          | *    | 中序遍历性质                       |
