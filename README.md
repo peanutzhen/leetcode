@@ -114,4 +114,5 @@
 | 98   | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 二叉树        | [Go](solutions/098_valid_BST.go)                             | *    | BST中序遍历的性质                  |
 | 99   | [97. 交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | 动态规划      | [Go](solutions/099_interleaving_str.go)                      | *    |                                    |
 | 100  | [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 二叉树        | [Go](solutions/100_recover_BST.go)                           | *    | 利用BST中序遍历的性质              |
+| 101  | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | 二叉树        | [Go](solutions/101_same_tree.go)                             | *    | 还是中序遍历或递归                 |
 
