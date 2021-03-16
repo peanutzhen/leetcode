@@ -118,4 +118,4 @@
 | 102  | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | BFS           | [Go](solutions/102_level_traversal.go)                       | *    |                                    |
 | 103  | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | BFS           | [Go](solutions/103_zigzag_order.go)                          | *    |                                    |
 | 104  | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 递归          | [Go](solutions/104_depth_tree.go)                            | *    |                                    |
-
+| 105  | [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | 递归          | [Go](solutions/105_build_tree.go)                            | *    | 先序遍历中序遍历性质               |
