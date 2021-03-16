@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 // Definition for a binary tree node.
 type TreeNode struct {
 	Val   int
@@ -31,9 +29,4 @@ func buildTree(preorder []int, inorder []int) *TreeNode {
 	}
 
 	return recursion(preorder, inorder)
-}
-
-func main() {
-	root := buildTree([]int{3, 9, 20, 15, 7}, []int{9, 3, 15, 20, 7})
-	fmt.Println(root.Val)
 }
