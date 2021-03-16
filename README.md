@@ -117,4 +117,5 @@
 | 101  | [100. 相同的树](https://leetcode-cn.com/problems/same-tree/) | 二叉树        | [Go](solutions/101_same_tree.go)                             | *    | 还是中序遍历或递归                 |
 | 102  | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | BFS           | [Go](solutions/102_level_traversal.go)                       | *    |                                    |
 | 103  | [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | BFS           | [Go](solutions/103_zigzag_order.go)                          | *    |                                    |
+| 104  | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 递归          | [Go](solutions/104_depth_tree.go)                            | *    |                                    |
 
