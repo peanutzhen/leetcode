@@ -128,3 +128,4 @@
 | 112  | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | 递归          | [Go](solutions/112_is_balance_tree.go)                       | *    |                                    |
 | 113  | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 递归          | [Go](solutions/113_min_depth.go)                             | *    |                                    |
 | 114  | [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)  | 回朔算法      | [Go](solutions/114_path_sum.go)                              | *    |                                    |
+| 115  | [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | 回朔算法      | [Go](solutions/115_path_sum2.go)                             | **   |                                    |
