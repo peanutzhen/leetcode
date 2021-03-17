@@ -136,4 +136,5 @@
 | 120  | [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | 递归          | [Go](solutions/120_max_path_sum.go)                          | **** | 这谁想到得到啊草                   |
 | 121  | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | 哈希表        | [Go](solutions/121_longest_consecutive_sequence.go)          | ***  | 又是哈希表记录数字出现情况         |
 | 122  | [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 数学          | [Go](solutions/122_only_one_element.go)                      | *    | 异或运算的妙用                     |
+| 123  | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 链表          | [Go](solutions/123_is_cycle_list.go)                         | *    | 快慢指针很秀                       |
 
