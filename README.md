@@ -137,4 +137,5 @@
 | 121  | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | 哈希表        | [Go](solutions/121_longest_consecutive_sequence.go)          | ***  | 又是哈希表记录数字出现情况         |
 | 122  | [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 数学          | [Go](solutions/122_only_one_element.go)                      | *    | 异或运算的妙用                     |
 | 123  | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 链表          | [Go](solutions/123_is_cycle_list.go)                         | *    | 快慢指针很秀                       |
+| 124  | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | 动态规划      | [Go](solutions/124_word_split.go)                            | ***  | 哈希表+转移方程有点难想            |
 
