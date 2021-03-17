@@ -126,3 +126,4 @@
 | 110  | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | 贪心算法      | [Go](solutions/110_petrol_station.go)                        | *    |                                    |
 | 111  | [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | 链表          | [Go](solutions/111_list_to_tree.go)                          | *    | list->array->tree                  |
 | 112  | [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | 递归          | [Go](solutions/112_is_balance_tree.go)                       | *    |                                    |
+| 113  | [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 递归          | [Go](solutions/113_min_depth.go)                             | *    |                                    |
