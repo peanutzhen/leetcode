@@ -132,3 +132,4 @@
 | 116  | [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | 动态规划      | [Go](solutions/116_max_product.go)                           | ***  | 又是看题解的一天                   |
 | 117  | [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 数组          | [Go](solutions/117_rotate_array.go)                          | *    | 翻转法有意思                       |
 | 118  | [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | 二叉树        | [Go](solutions/118_flatten_tree.go)                          | **   | 思路有却写不出代码草               |
+| 119  | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 益智          | [Go](solutions/119_max_profit.go)                            | *    |                                    |
