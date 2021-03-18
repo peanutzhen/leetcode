@@ -1,6 +1,9 @@
 package main
 
-import "sort"
+import (
+	"fmt"
+	"sort"
+)
 
 // ListNode for singly-linked list.
 type ListNode struct {
@@ -25,66 +28,96 @@ func method1(head *ListNode) *ListNode {
 	return head
 }
 
+// 合并两个有序链表
 func merge(head1, head2 *ListNode) *ListNode {
-	dummyHead := &ListNode{}
-	temp, temp1, temp2 := dummyHead, head1, head2
-	for temp1 != nil && temp2 != nil {
-		if temp1.Val <= temp2.Val {
-			temp.Next = temp1
-			temp1 = temp1.Next
+	p1, p2 := head1, head2
+	dummyHead := &ListNode{0, head1}
+	prev := dummyHead
+	for p1 != nil && p2 != nil {
+		if p1.Val < p2.Val {
+			prev.Next = p1
+			p1 = p1.Next
 		} else {
-			temp.Next = temp2
-			temp2 = temp2.Next
+			prev.Next = p2
+			p2 = p2.Next
 		}
-		temp = temp.Next
+		prev = prev.Next
 	}
-	if temp1 != nil {
-		temp.Next = temp1
-	} else if temp2 != nil {
-		temp.Next = temp2
+	if p1 == nil {
+		prev.Next = p2
+	} else {
+		prev.Next = p1
 	}
 	return dummyHead.Next
 }
 
+// 迭代版归并排序 空间复杂度为O(1)
 func sortList(head *ListNode) *ListNode {
 	if head == nil {
-		return head
+		return nil
 	}
 
+	// 统计链表长度
 	length := 0
-	for node := head; node != nil; node = node.Next {
+	for p := head; p != nil; p = p.Next {
 		length++
 	}
 
-	dummyHead := &ListNode{Next: head}
-	for subLength := 1; subLength < length; subLength <<= 1 {
-		prev, cur := dummyHead, dummyHead.Next
-		for cur != nil {
-			head1 := cur
-			for i := 1; i < subLength && cur.Next != nil; i++ {
-				cur = cur.Next
+	hair := &ListNode{0, head}
+
+	for subLength := 1; subLength < length; subLength *= 2 {
+		prev, p1 := hair, hair.Next
+		for p1 != nil {
+			// p1 p2 分别指向 长度为subLength的链表
+			// 我们要将p1和p2合并
+			endP1 := p1
+			for i := 1; i < subLength && endP1.Next != nil; i++ {
+				endP1 = endP1.Next
 			}
 
-			head2 := cur.Next
-			cur.Next = nil
-			cur = head2
-			for i := 1; i < subLength && cur != nil && cur.Next != nil; i++ {
-				cur = cur.Next
+			p2 := endP1.Next
+			endP1.Next = nil // p1与p2断开连接
+
+			endP2 := p2
+			for i := 1; i < subLength && endP2 != nil && endP2.Next != nil; i++ {
+				endP2 = endP2.Next
 			}
 
-			var next *ListNode
-			if cur != nil {
-				next = cur.Next
-				cur.Next = nil
+			var nextP1 *ListNode // 下一个p1位置
+			if endP2 != nil {
+				nextP1 = endP2.Next
+				endP2.Next = nil // P2 和 nextP1断开链接
 			}
 
-			prev.Next = merge(head1, head2)
+			prev.Next = merge(p1, p2) // 合并
 
 			for prev.Next != nil {
-				prev = prev.Next
+				prev = prev.Next // 定位连接点
 			}
-			cur = next
+			p1 = nextP1
 		}
 	}
-	return dummyHead.Next
+	return hair.Next
+}
+
+// debug func
+func printList(head *ListNode) {
+	for head != nil {
+		fmt.Print(head.Val, "->")
+		head = head.Next
+	}
+	fmt.Println("nil")
+}
+
+// test
+func main() {
+	array := []int{5, 4, 3, 2, 1, 10}
+	// array to list
+	header := &ListNode{0, nil}
+	tmp := header
+	for _, v := range array {
+		tmp.Next = &ListNode{v, nil}
+		tmp = tmp.Next
+	}
+	printList(sortList(header.Next))
 }
