@@ -44,7 +44,7 @@
 | 28   | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)       | 双指针        | [Go](solutions/028_four_num_sum.go)                          | *    | 三数之和变形题                     |
 | 29   | [19. 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 链表          | [Go](solutions/029_rm_node.go)                               | *    |                                    |
 | 30   | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 栈            | [Go](solutions/030_valid_parentheses.go)                     | *    |                                    |
-| 31   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 链表          | [Go](solutions/031_merge_sorted_list.go)                     | *    |                                    |
+| 31   | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 链表          | [Go](solutions/031_merge_sorted_list.go)                     | *    | O(1)空间复杂度要学会               |
 | 32   | [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 回朔          | [Go](solutions/032_gen_parentheses.go)                       | **   | 回朔算法很适合这题                 |
 | 33   | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 堆            | [Go](solutions/033_merge_k_sorted_list.go)                   | *    | 构造数组+排序+构造链表             |
 | 34   | [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 递归          | [Go](solutions/034_swap_adjacent_node.go)                    | *    | 往递归想就简单了                   |
