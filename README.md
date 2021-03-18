@@ -145,4 +145,5 @@
 | 129  | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | DFS/BFS       | [Go](solutions/129_num_islands.go)                           | ***  | 没想到cnm                          |
 | 130  | [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 堆/双端队列   | [Go](solutions/130_slide_window_maxvalue.go)                 | ***  | 队列是我没想到的                   |
 | 131  | [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) | 动态规划      | [Go](solutions/131_max_square.go)                            | ***  | 有时dp保存的不是答案               |
+| 132  | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 单调栈        | [Go](solutions/132_daily_temperature.go)                     | *    |                                    |
 
