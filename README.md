@@ -143,4 +143,5 @@
 | 127  | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 栈/设计       | [Go](solutions/127_min_stack.go)                             | *    | 双栈即可                           |
 | 128  | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 动态规划      | [Go](solutions/128_robber.go)                                | *    |                                    |
 | 129  | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | DFS/BFS       | [Go](solutions/129_num_islands.go)                           | ***  | 没想到cnm                          |
+| 130  | [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 堆/双端队列   | [Go](solutions/130_slide_window_maxvalue.go)                 | ***  | 队列是我没想到的                   |
 
