@@ -142,4 +142,5 @@
 | 126  | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 排序          | [Go](solutions/126_sort_list.go)                             | **** | 迭代版归并排序代码难写             |
 | 127  | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 栈/设计       | [Go](solutions/127_min_stack.go)                             | *    | 双栈即可                           |
 | 128  | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 动态规划      | [Go](solutions/128_robber.go)                                | *    |                                    |
+| 129  | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | DFS/BFS       | [Go](solutions/129_num_islands.go)                           | ***  | 没想到cnm                          |
 
