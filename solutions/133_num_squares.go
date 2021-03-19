@@ -13,7 +13,7 @@ func numSquares(n int) int {
 	for i := 1; squares[i] <= n; i++ {
 		dp[squares[i]] = 1
 	}
-	// 自顶向上
+	// 自底向上
 	for i := 2; i <= n; i++ {
 		if dp[i] == 0 {
 			min := n + 1
