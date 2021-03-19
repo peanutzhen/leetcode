@@ -147,4 +147,5 @@
 | 131  | [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) | 动态规划      | [Go](solutions/131_max_square.go)                            | ***  | 有时dp保存的不是答案               |
 | 132  | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 单调栈        | [Go](solutions/132_daily_temperature.go)                     | *    |                                    |
 | 133  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 动态规划      | [Go](solutions/133_num_squares.go)                           | *    |                                    |
+| 134  | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 贪心算法      | [Go](solutions/134_max_profit2.go)                           | *    |                                    |
 
