@@ -148,4 +148,5 @@
 | 132  | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 单调栈        | [Go](solutions/132_daily_temperature.go)                     | *    |                                    |
 | 133  | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 动态规划      | [Go](solutions/133_num_squares.go)                           | *    |                                    |
 | 134  | [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | 贪心算法      | [Go](solutions/134_max_profit2.go)                           | *    |                                    |
-
+| 135  | [378. 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 二分查找      | [Go](solutions/135_kth_smallest_in_multiplication_table.go)  | **** | 二分查找还能这样用@_@              |
+| 136  | [668. 乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/) | 二分查找      | [Go](solutions/136_kth_smallest_matrix.go)                   | **   | 136变形题                          |
