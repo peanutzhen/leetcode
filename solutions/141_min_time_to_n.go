@@ -19,50 +19,33 @@ package main
 	(原题目给了个情景 又长又臭)
 */
 
-func min(a, b int) int {
+func min(a, b uint64) uint64 {
 	if a < b {
 		return a
 	}
 	return b
 }
 
-func minTimeToN(n, a, b int) int {
-	// dp[i][j] 表示从i->j的最短时间
-	dp := make([][]int, n+1)
-	for i := 0; i <= n; i++ {
-		dp[i] = make([]int, n+1)
-	}
-
-	// 自顶向下待备忘录递归
-	var recursion func(count int, flag int) int
-	recursion = func(count int, flag int) int {
-		if count >= n {
-			// 当时笔试写成这句 本来AC的题直接GG 为什么牛客网不给debug
-			// 牛客网必死
-			// return (n - count) * b
-			return (count - n) * b // 进行count - n步减1即可
+func minTimeToN(n, x, y uint64) uint64 {
+	// dp[i] 表示从0->i的最短时间
+	dp := make([]uint64, n+1)
+	dp[0] = 0
+	dp[1] = x
+	// 注意: 奇偶交替
+	// 我们发现 想要到n 最快到两条路就是
+	// 从n-1 +1 或者通过*2来到达
+	// 但是也要分奇偶讨论 比如6->...->11->12(Even)
+	// 必然是从6翻倍或者11+1这样最快
+	// 7->...->12->13(Odd)->14
+	// 必然是从7蹦到14再-1 或者 从12+1最快
+	even := true
+	for i := 2; uint64(i) <= n; i++ {
+		if even {
+			dp[i] = min(dp[i/2]+y, dp[i-1]+x)
+		} else {
+			dp[i] = min(dp[(i+1)/2]+x+y, dp[i-1]+x)
 		}
-		if dp[count][n] == 0 {
-			// flag:
-			// 0 代表上一步是 +
-			// 1 代表上一步是 -
-			// 2 代表上一步是 *
-			if flag == 0 || flag == 2 {
-				dp[count][n] = recursion(count+1, 0) + b
-			}
-			if flag == 1 || flag == 2 {
-				if dp[count][n] != 0 {
-					dp[count][n] = min(dp[count][n], recursion(count-1, 1)+b)
-				} else {
-					dp[count][n] = recursion(count-1, 1) + b
-				}
-			}
-			if count*2 != 0 {
-				dp[count][n] = min(dp[count][n], recursion(count*2, 2)+a)
-			}
-		}
-		return dp[count][n]
+		even = !even
 	}
-
-	return recursion(0, 0)
+	return dp[n]
 }
