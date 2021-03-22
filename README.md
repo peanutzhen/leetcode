@@ -155,3 +155,4 @@
 | 139  | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | 动态规划      | [Go](solutions/139_coin.go)                                  | **   | 注意什么时候是贪心问题             |
 | 140  | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | BFS           | [Go](solutions/140_tree_right_side_view.go)                  | *    |                                    |
 | 141  | [字节笔试C题. 从0至N的最小代价](https://codeforces.com/contest/710/problem/E) | 动态规划      | [Go](solutions/141_min_time_to_n.go)                         | ***  | NMSL                               |
+| 142  | 百度笔试A题. 牛牛最小的进食次数                              | 贪心算法      | [142_min_eat.go](solutions/142_min_eat.go)                   | **   | 发现了Go的一个坑/题目简介in注释    |
