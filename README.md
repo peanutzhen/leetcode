@@ -157,3 +157,4 @@
 | 141  | [字节笔试C题. 从0至N的最小代价](https://codeforces.com/contest/710/problem/E) | 动态规划      | [Go](solutions/141_min_time_to_n.go)                         | ***  | NMSL                               |
 | 142  | 百度笔试A题. 牛牛最小的进食次数                              | 贪心算法      | [Go](solutions/142_min_eat.go)                               | **   | 发现了Go的一个坑/题目简介in注释    |
 | 143  | [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 二分搜索      | [Go](solutions/143_rotate_array_min.go)                      | *    |                                    |
+| 144  | [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) | 随机算法      | [Go](solutions/144_rand7_to_rand10.go)                       | **   | 又是看题解的一天                   |
