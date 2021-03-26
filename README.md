@@ -160,3 +160,4 @@
 | 144  | [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) | 随机算法      | [Go](solutions/144_rand7_to_rand10.go)                       | **   | 又是看题解的一天                   |
 | 145  | [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | 数学          | [Go](solutions/145_count_k_beetween1_and_n.go)               | ***  | NMSL                               |
 | 146  | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 动态规划      | [Go](solutions/146_max_inc_seq.go)                           | ***  | NMSL                               |
+| 147  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 链表          | [Go](solutions/147_reverse_list.go)                          | *    |                                    |
