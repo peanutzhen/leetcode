@@ -162,4 +162,5 @@
 | 146  | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 动态规划      | [Go](solutions/146_max_inc_seq.go)                           | ***  | NMSL                               |
 | 147  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 链表          | [Go](solutions/147_reverse_list.go)                          | *    |                                    |
 | 148  | [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | 益智          | [Go](solutions/148_max_count.go)                             | *    |                                    |
+| 149  | [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 排序          | [Go](solutions/149_sort.go)                                  | *    | 要求做到面试手撕代码               |
 
