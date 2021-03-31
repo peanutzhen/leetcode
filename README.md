@@ -166,5 +166,5 @@
 | 150  | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 动态规划      | [Go](solutions/150_ugly_num.go)                              | ***  |                                    |
 | 151  | 华为机试A题. 球队积分排行                                    | 排序          | [Go](solutions/151_rank_team.go)                             | *    |                                    |
 | 152  | 华为机试B题. 最小员工数目                                    | 益智          | [Python](solutions/152_min_employee.py)                      | **   | 输入是真的蛋疼                     |
-| 153  | 华为机试C题. 最小移动捕鼠                                    | 动态规划      | [Go](solutions/153_min_step_match.go)                        | ***  | 通过95%cases，超时了               |
+| 153  | 华为机试C题. 最小移动步数                                    | 动态规划      | [Go](solutions/153_min_step_match.go)                        | ***  | 通过95%cases，最后超时了           |
 
