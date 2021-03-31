@@ -164,4 +164,7 @@
 | 148  | [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | 益智          | [Go](solutions/148_max_count.go)                             | *    |                                    |
 | 149  | [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 排序          | [Go](solutions/149_sort.go)                                  | *    | 要求做到面试手撕代码               |
 | 150  | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 动态规划      | [Go](solutions/150_ugly_num.go)                              | ***  |                                    |
+| 151  | 华为机试A题. 球队积分排行                                    | 排序          | [Go](solutions/151_rank_team.go)                             | *    |                                    |
+| 152  | 华为机试B题. 最小员工数目                                    | 益智          | [Python](solutions/152_min_employee.py)                      | **   | 输入是真的蛋疼                     |
+| 153  | 华为机试C题. 最小移动捕鼠                                    | 动态规划      | [Go](solutions/153_min_step_match.go)                        | ***  | 通过95%cases，超时了               |
 
