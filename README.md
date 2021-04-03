@@ -167,4 +167,4 @@
 | 151  | 华为机试A题. 球队积分排行                                    | 排序          | [Go](solutions/151_rank_team.go)                             | *    |                                    |
 | 152  | 华为机试B题. 最小员工数目                                    | 益智          | [Python](solutions/152_min_employee.py)                      | **   | 输入是真的蛋疼                     |
 | 153  | 华为机试C题. 最小移动步数                                    | 动态规划      | [Go](solutions/153_min_step_match.go)                        | ***  | 通过95%cases，最后超时了           |
-
+| 154  | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 二分查找      | [Go](solutions/154_find_min_rotated_ar2.go)                  | **   | 注意不能用low和mid比较             |
