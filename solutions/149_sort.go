@@ -10,8 +10,42 @@ import "fmt"
 
 // 归并排序
 
+// 堆排序
+func heapSort(nums []int) {
+	// 自 from 向 end 的 调整节点使得成为从from开始成为最大堆
+	var maxHeapify func(from, end int)
+	maxHeapify = func(from, end int) {
+		left := 2*from + 1
+		if left > end {
+			return
+		}
+		right := left + 1
+		idx := left
+		if right <= end && nums[left] < nums[right] {
+			idx = right
+		}
+		if nums[from] > nums[idx] {
+			return
+		}
+		nums[from], nums[idx] = nums[idx], nums[from] // swap
+		maxHeapify(idx, end)
+	}
+
+	// 最大堆化
+	n := len(nums)
+	for i := n/2 - 1; i >= 0; i-- {
+		maxHeapify(i, n-1)
+	}
+
+	// 不断pop 丢弃至nums末尾
+	for i := n - 1; i > 0; i-- {
+		nums[i], nums[0] = nums[0], nums[i]
+		maxHeapify(0, i-1)
+	}
+}
+
 // 快速排序
-func quickSort(nums []int) []int {
+func quickSort(nums []int) {
 	// 三元素取中值法
 	var median func(low, high int) int
 	median = func(low, high int) int {
@@ -66,11 +100,11 @@ func quickSort(nums []int) []int {
 	}
 
 	qsort(0, len(nums)-1) // in-place
-	return nums
 }
 
 func sortArray(nums []int) []int {
-	return quickSort(nums)
+	heapSort(nums)
+	return nums
 }
 
 func main() {
