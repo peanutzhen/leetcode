@@ -170,3 +170,4 @@
 | 154  | [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 二分查找      | [Go](solutions/154_find_min_rotated_ar2.go)                  | **   | 注意不能用low和mid比较             |
 | 155  | 腾讯笔试B题. 消除数字                                        | 栈            | [Go](solutions/155_remove_numbers.go)                        | *    | 考场PTSD了 以为是动态规划          |
 | 156  | 腾讯笔试C题. 过钢索                                          | 动态规划      | [Go](solutions/156_walk_tightrope.go)                        | ***  | 转移方程有点难想                   |
+| 157  | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 排序          | [C](solutions/157_find_kth_element.c)                        | *    | 代码写的不够熟练                   |
