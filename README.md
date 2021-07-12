@@ -172,4 +172,5 @@
 | 156  | 腾讯笔试C题. 过钢索                                          | 动态规划      | [Go](solutions/156_walk_tightrope.go)                        | ***  | 转移方程有点难想                   |
 | 157  | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 排序          | [C](solutions/157_find_kth_element.c)                        | *    | 代码写的不够熟练                   |
 | 158  | [Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | 数学          | [Go](solutions/158_shortest_path_with_obstacle.go)           | *    | 回归刷题day1                       |
+| 159  | [Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | 益智          | [Go](solutions/159_alphabetical_strings.go)                  | *    | 思路简单，关注怎么实现             |
 
