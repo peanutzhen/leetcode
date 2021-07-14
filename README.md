@@ -173,4 +173,5 @@
 | 157  | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 排序          | [C](solutions/157_find_kth_element.c)                        | *    | 代码写的不够熟练                   |
 | 158  | [Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | 数学          | [Go](solutions/158_shortest_path_with_obstacle.go)           | *    | 回归刷题day1                       |
 | 159  | [Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | 益智          | [Go](solutions/159_alphabetical_strings.go)                  | *    | 思路简单，关注怎么实现             |
+| 160  | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 双指针/递归   | [Go](solutions/160_valid_palindrome2.go)                     | *    |                                    |
 
