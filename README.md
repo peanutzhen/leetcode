@@ -174,4 +174,5 @@
 | 158  | [Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | 数学          | [Go](solutions/158_shortest_path_with_obstacle.go)           | *    | 回归刷题day1                       |
 | 159  | [Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | 益智          | [Go](solutions/159_alphabetical_strings.go)                  | *    | 思路简单，关注怎么实现             |
 | 160  | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 双指针/递归   | [Go](solutions/160_valid_palindrome2.go)                     | *    |                                    |
+| 161  | [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 益智          | [C](solutions/161_kefa_and_first_steps.c)                    | *    | Go会TLE，草                        |
 
