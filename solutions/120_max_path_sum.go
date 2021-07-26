@@ -16,7 +16,7 @@ func max(a, b int) int {
 
 // 又是看题解的一天
 func maxPathSum(root *TreeNode) int {
-	ans := -2147483648
+	ans := -1 << 31
 	var recursion func(root *TreeNode) int
 	recursion = func(root *TreeNode) int {
 		if root == nil {
