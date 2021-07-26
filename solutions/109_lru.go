@@ -2,27 +2,27 @@ package main
 
 import "fmt"
 
-// 双向链表+哈希表
-// O(1) O(capacipy)
+// Node 双向链表节点定义
 type Node struct {
-	key, value int
+	key        int // 用于反向获取Cache指针
+	value      int
 	prev, next *Node
 }
 
 type LRUCache struct {
-	hashmap    map[int]*Node
-	length     int
-	capacity   int
-	head, tail *Node
+	hashmap  map[int]*Node
+	length   int
+	capacity int
+	head     *Node // 最近最常用key-value指针
+	tail     *Node // 最近最不常用key-value指针
 }
 
 func Constructor(capacity int) LRUCache {
 	rtv := LRUCache{
 		hashmap:  make(map[int]*Node),
-		length:   0,
 		capacity: capacity,
-		head:     &Node{},
-		tail:     &Node{},
+		head:     &Node{}, // 虚拟头节点
+		tail:     &Node{}, // 虚拟尾节点 便于insert/delete操作
 	}
 	rtv.head.next = rtv.tail
 	rtv.tail.prev = rtv.head
@@ -52,6 +52,7 @@ func (this *LRUCache) Get(key int) int {
 	if node == nil {
 		return -1
 	}
+	// 放到链表头部 表示最近使用过
 	this.removeNode(node)
 	this.addNodeToHead(node)
 	this.hashmap[key] = node
@@ -61,7 +62,7 @@ func (this *LRUCache) Get(key int) int {
 func (this *LRUCache) Put(key int, value int) {
 	if this.hashmap[key] != nil {
 		this.hashmap[key].value = value
-		this.Get(key)
+		this.Get(key) // Tips: 利用Get放到队头
 		return
 	}
 	if this.length == this.capacity {
@@ -71,8 +72,6 @@ func (this *LRUCache) Put(key int, value int) {
 	node := &Node{
 		key:   key,
 		value: value,
-		next:  nil,
-		prev:  nil,
 	}
 	this.addNodeToHead(node)
 	this.hashmap[key] = node
