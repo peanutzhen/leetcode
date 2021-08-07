@@ -181,4 +181,7 @@
 | 159            | [Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | 益智          | [Go](solutions/159_alphabetical_strings.go)                  | *    | 思路简单，关注怎么实现             |
 | 160            | [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 双指针/递归   | [Go](solutions/160_valid_palindrome2.go)                     | *    |                                    |
 | 161            | [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 益智          | [C](solutions/161_kefa_and_first_steps.c)                    | *    | Go会TLE，草                        |
+| 162            | [美团2021第一场B](https://www.nowcoder.com/test/28665243/summary) | 浮点数        | [Go](solutions/162_meituan2021r1_B.go)                       | *    |                                    |
+| 163            | [美团2021第一场C](https://www.nowcoder.com/test/28665243/summary) | 贪心          | [Go](solutions/163_meituan2021r1_C.go)                       | *    |                                    |
+| 164            | [美团2021第一场A](https://www.nowcoder.com/test/28665243/summary) | 益智          | [Go](solutions/164_meituan2021r1_A.go)                       | **   | 找到规律就很简单                   |
 

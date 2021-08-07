@@ -2,6 +2,8 @@ package main
 
 // 此题可以用堆或者双端队列来做
 // 双端队列更快
+
+// 无论用heap还是queue，检查max值是否在窗口中是关键
 func maxSlidingWindow(nums []int, k int) []int {
 	// 双向队列法
 	// 队列存的是数组下标，下标递增
