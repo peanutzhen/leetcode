@@ -4,7 +4,7 @@
 
 ### Tips
 
-- 序号用**<u>下划线加粗</u>**的题目是用来复习某个**特定算法**的极佳例子。（如53:回朔算法/109:LRU算法/149:排序算法）
+- 序号用<u>**下划线加粗**</u>的题目是用来复习某个**特定算法**的极佳例子。（如53:回朔算法/109:LRU算法/149:排序算法）
 - 题目**思路**在**代码注释**里，方便阅读理解。
 
 ### Contact
@@ -169,7 +169,7 @@
 | 147            | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 链表          | [Go](solutions/147_reverse_list.go)                          | *    | 三指针反转，头节点很重要                             |
 | 148            | [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | 益智          | [Go](solutions/148_max_count.go)                             | *    |                                                      |
 | <u>**149**</u> | [912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/) | 排序          | [Go](solutions/149_sort.go)                                  | *    | 要求做到面试手撕代码                                 |
-| 150            | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 动态规划      | [Go](solutions/150_ugly_num.go)                              | ***  |                                                      |
+| **150**        | [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/) | 动态规划      | [Go](solutions/150_ugly_num.go)                              | ***  | 提前批字节商业化三面原题                             |
 | 151            | 华为机试A题. 球队积分排行                                    | 排序          | [Go](solutions/151_rank_team.go)                             | *    |                                                      |
 | 152            | 华为机试B题. 最小员工数目                                    | 益智          | [Python](solutions/152_min_employee.py)                      | **   | 输入是真的蛋疼                                       |
 | 153            | 华为机试C题. 最小移动步数                                    | 动态规划      | [Go](solutions/153_min_step_match.go)                        | ***  | 通过95%cases，最后超时了                             |
