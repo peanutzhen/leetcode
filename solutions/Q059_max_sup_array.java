@@ -1,12 +1,10 @@
 public class Q059_max_sup_array {
     public static void main(String[] args) {
-        Solution solution = new Solution();
+        Q059_max_sup_array solution = new Q059_max_sup_array();
         int res = solution.maxSubArray(new int[]{-2,1,-3,4,-1,2,1,-5,4});
         System.out.println(res);
     }
-}
 
-class Solution {
     public int maxSubArray(int[] nums) {
         if (nums.length == 0) {
             return 0;
@@ -25,3 +23,4 @@ class Solution {
         return maxSum;
     }
 }
+
