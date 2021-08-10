@@ -78,7 +78,7 @@
 | 56             | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 字符串        | [Go](solutions/056_group_anagrams.go)                        | **   | 词频+哈希表                                          |
 | 57             | [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)     | 回朔算法      | [Go](solutions/057_n_queens.go)                              | *    |                                                      |
 | 58             | [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) | 回朔算法      | [Go](solutions/058_n_queens_2.go)                            | *    |                                                      |
-| 59             | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 动态规划/分治 | [Go](solutions/059_max_sub_array.go)                         | *    | 注意分治法！                                         |
+| 59             | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 动态规划/分治 | [Go](solutions/059_max_sub_array.go) /[Java](solutions/Q059_max_sup_array.java) | *    | 注意分治法！                                         |
 | 60             | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | 代码设计      | [Go](solutions/060_spiral_order.go)                          | **   | 妙在标记已读数字解决边界问题                         |
 | 61             | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 贪心算法      | [Go](solutions/061_can_jump.go)                              | *    |                                                      |
 | 62             | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 益智          | [Go](solutions/062_merge_intervals.go)                       | *    |                                                      |
@@ -186,4 +186,3 @@
 | 164            | [美团2021第一场A](https://www.nowcoder.com/test/28665243/summary) | 益智          | [Go](solutions/164_meituan2021r1_A.go)                       | **   | 找到规律就很简单                                     |
 | 165            | 美团2022第一场C                                              | 二分插入/堆   | [Java](solutions/Q165_prev_sum.java)                         | **   | TreeSet yyds                                         |
 |                |                                                              |               |                                                              |      |                                                      |
-
