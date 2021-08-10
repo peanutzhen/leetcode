@@ -184,4 +184,6 @@
 | 162            | [美团2021第一场B](https://www.nowcoder.com/test/28665243/summary) | 浮点数        | [Go](solutions/162_meituan2021r1_B.go)                       | *    |                                                      |
 | 163            | [美团2021第一场C](https://www.nowcoder.com/test/28665243/summary) | 贪心          | [Go](solutions/163_meituan2021r1_C.go)                       | *    |                                                      |
 | 164            | [美团2021第一场A](https://www.nowcoder.com/test/28665243/summary) | 益智          | [Go](solutions/164_meituan2021r1_A.go)                       | **   | 找到规律就很简单                                     |
+| 165            | 美团2022第一场C                                              | 二分插入/堆   | [Java](solutions/Q165_prev_sum.java)                         | **   | TreeSet yyds                                         |
+|                |                                                              |               |                                                              |      |                                                      |
 
