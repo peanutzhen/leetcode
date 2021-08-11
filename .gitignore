@@ -11,4 +11,5 @@ __pycache__/
 # editor
 .vscode/
 .idea/
+cmake-build-debug
 out
