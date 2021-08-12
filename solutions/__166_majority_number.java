@@ -1,10 +1,11 @@
-public class Q166_majority_number {
+public class __166_majority_number {
     public static void main(String[] args) {
-        System.out.println(majorityElement(new int[]{3,2,3}));
+        __166_majority_number solution = new __166_majority_number();
+        System.out.println(solution.majorityElement(new int[]{3,2,3}));
     }
 
     // 摩尔投票法
-    public static int majorityElement(int[] nums) {
+    public int majorityElement(int[] nums) {
         int major = nums[0];
         int count = 1;
         for (int i = 1; i < nums.length; i++) {

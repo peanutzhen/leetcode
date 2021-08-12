@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.TreeSet;
 
-public class Q165_prev_sum {
+public class __165_prev_sum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

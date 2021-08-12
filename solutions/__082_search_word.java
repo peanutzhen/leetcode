@@ -1,6 +1,6 @@
-public class Q082_search_word {
+public class __082_search_word {
     public static void main(String[] args) {
-        Q082_search_word main = new Q082_search_word();
+        __082_search_word main = new __082_search_word();
         boolean result = main.exist(new char[][]{{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}}, "SEE");
         System.out.println(result);
     }

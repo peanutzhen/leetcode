@@ -1,6 +1,6 @@
-public class Q059_max_sup_array {
+public class __059_max_sup_array {
     public static void main(String[] args) {
-        Q059_max_sup_array solution = new Q059_max_sup_array();
+        __059_max_sup_array solution = new __059_max_sup_array();
         int res = solution.maxSubArray(new int[]{-2,1,-3,4,-1,2,1,-5,4});
         System.out.println(res);
     }

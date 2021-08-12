@@ -143,7 +143,7 @@
 | 121            | [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | 哈希表        | [Go](solutions/121_longest_consecutive_sequence.go)          | ***  | 又是哈希表记录数字出现情况                           |
 | 122            | [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | 数学          | [Go](solutions/122_only_one_element.go)                      | *    | 异或运算的妙用                                       |
 | 123            | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 链表          | [Go](solutions/123_is_cycle_list.go)                         | *    | 快慢指针很秀                                         |
-| 124            | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | 动态规划      | [Go](solutions/124_word_split.go)                            | ***  | 哈希表+转移方程有点难想                              |
+| 124            | [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) | 动态规划      | [Go](solutions/124_word_split.go) /[Java](solutions/__124_word_split.java) | ***  | 哈希表+转移方程有点难想                              |
 | 125            | [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 双指针/数学   | [Go](solutions/125_is_cycle_list2.go)                        | ***  | O(1)空间复杂度解法难想                               |
 | 126            | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 排序          | [Go](solutions/126_sort_list.go)                             | **** | 迭代版归并排序代码难写                               |
 | 127            | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 栈/设计       | [Go](solutions/127_min_stack.go)                             | *    | 双栈即可                                             |
@@ -186,4 +186,6 @@
 | 164            | [美团2021第一场A](https://www.nowcoder.com/test/28665243/summary) | 益智          | [Go](solutions/164_meituan2021r1_A.go)                       | **   | 找到规律就很简单                                     |
 | 165            | 美团2022第一场C                                              | 二分插入/堆   | [Java](solutions/Q165_prev_sum.java) / [C++](solutions/165_prev_sum.cpp) | **   | TreeSet yyds                                         |
 | **166**        | [169. 多数元素](https://leetcode-cn.com/problems/majority-element/) | 投票算法      | [Java](solutions/Q166_majority_number.java)                  | **   | 好巧妙的算法                                         |
-| 167            | [CF1555C](https://codeforces.com/problemset/problem/1555/C)  | 动态规划      | [C++](solutions/167_coins_row.cpp)                           | **   |                                                      |
+| 167            | [1555C - Coin Rows](https://codeforces.com/problemset/problem/1555/C) | 动态规划      | [C++](solutions/167_coins_row.cpp)                           | 1300 |                                                      |
+| 168            | [492B - Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B) | 益智          | [C++](solutions/__168_lantern.cpp)                           | 1200 |                                                      |
+| 169            | [1553D - Backspace](https://codeforces.com/problemset/problem/1553/D) | 贪心          | [Java](solutions/__169_backspace.java)                       | 1500 |                                                      |
