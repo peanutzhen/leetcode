@@ -189,3 +189,4 @@
 | 167            | [1555C - Coin Rows](https://codeforces.com/problemset/problem/1555/C) | 动态规划      | [C++](solutions/167_coins_row.cpp)                           | 1300 |                                                      |
 | 168            | [492B - Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B) | 益智          | [C++](solutions/__168_lantern.cpp)                           | 1200 |                                                      |
 | 169            | [1553D - Backspace](https://codeforces.com/problemset/problem/1553/D) | 贪心          | [Java](solutions/__169_backspace.java)                       | 1500 |                                                      |
+| 170            | [1368B - Codeforces Subsequences](https://codeforces.com/problemset/problem/1368/B) | 数学          | [C++](solutions/__170_codeforces_subseq.cpp)                 | 1500 | 直接打表 秀死你                                      |
