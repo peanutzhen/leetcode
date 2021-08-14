@@ -190,3 +190,4 @@
 | 168            | [492B - Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B) | 益智          | [C++](solutions/__168_lantern.cpp)                           | 1200 |                                                      |
 | 169            | [1553D - Backspace](https://codeforces.com/problemset/problem/1553/D) | 贪心          | [Java](solutions/__169_backspace.java)                       | 1500 |                                                      |
 | 170            | [1368B - Codeforces Subsequences](https://codeforces.com/problemset/problem/1368/B) | 数学          | [C++](solutions/__170_codeforces_subseq.cpp)                 | 1500 | 直接打表 秀死你                                      |
+| 171            | 阿里20220813A                                                | 动态规划      | [Java](solutions/__171_alibaba20220813_A.java)               | *    | 特点在于大数                                         |
