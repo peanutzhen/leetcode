@@ -149,7 +149,7 @@
 | 127            | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | 栈/设计       | [Go](solutions/__127_min_stack.go)                           | *    | 双栈即可                                             |
 | 128            | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | 动态规划      | [Go](solutions/__128_robber.go)                              | *    |                                                      |
 | 129            | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | DFS/BFS       | [Go](solutions/__129_num_islands.go)                         | ***  | 没想到cnm                                            |
-| 130            | [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 堆/双端队列   | [Go](solutions/__130_slide_window_maxvalue.go)               | ***  | 队列是我没想到的                                     |
+| 130            | [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 堆/双端队列   | [Go](solutions/__130_slide_window_maxvalue.go) /  [C++](solutions/__130_slide_window_maxvalue.cpp) | ***  | 队列是我没想到的                                     |
 | 131            | [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) | 动态规划      | [Go](solutions/__131_max_square.go)                          | ***  | 有时dp保存的不是答案                                 |
 | 132            | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 单调栈        | [Go](solutions/__132_daily_temperature.go)                   | *    | 单调栈用于找左边/右边第一个小于/大于当前位置数的位置 |
 | 133            | [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 动态规划      | [Go](solutions/__133_num_squares.go)                         | *    |                                                      |
