@@ -194,3 +194,4 @@
 | 172            | 米哈哟2022-08-15 A                                           | 栈            | [Java](solutions/__172_mihoyo2022r1_A.java)                  | *    |                                                      |
 | 173            | 米哈哟2022-08-15 B                                           | 贪心          | [Java](solutions/__173_mihoyo2022r1_B.java)                  | **   |                                                      |
 | 174            | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 递归          | [C++](solutions/__174_lca_binarytree.cpp)                    | *    |                                                      |
+| 175            | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 递归          | [C++](solutions/__175_lca_tree.cpp)                          | **   |                                                      |
