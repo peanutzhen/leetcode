@@ -195,3 +195,4 @@
 | 173            | 米哈哟2022-08-15 B                                           | 贪心          | [Java](solutions/__173_mihoyo2022r1_B.java)                  | **   |                                                      |
 | 174            | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 递归          | [C++](solutions/__174_lca_binarytree.cpp)                    | *    |                                                      |
 | 175            | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 递归          | [C++](solutions/__175_lca_tree.cpp)                          | **   |                                                      |
+| 176            | [1555D - Say No to Palindromes](https://codeforces.com/problemset/problem/1555/D) | 动态规划      | [C++](solutions/__176_say_no_to_palindromes.cpp)             | 1600 | 太绝了                                               |
