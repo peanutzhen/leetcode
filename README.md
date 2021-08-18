@@ -198,3 +198,4 @@
 | 176            | [1555D - Say No to Palindromes](https://codeforces.com/problemset/problem/1555/D) | 动态规划      | [C++](solutions/__176_say_no_to_palindromes.cpp)             | 1600 | 很巧妙的题                                           |
 | 177            | [377A - Maze](https://codeforces.com/problemset/problem/377/A) | DFS           | [C++](solutions/__177_maze.cpp)                              | 1600 | 逆向思维 找连通空闲点                                |
 | 178            | [1344A - Hilbert's Hotel](https://codeforces.com/problemset/problem/1344/A) | 数论          | [C++](solutions/__178_hilbert_hotel.cpp)                     | 1600 | 多模拟找规律                                         |
+| 179            | [371C - Hamburgers](https://codeforces.com/problemset/problem/371/C) | 二分查找      | [C++](solutions/__179_hamburgers.cpp)                        | 1600 | 以后大数题还是用Java好                               |
