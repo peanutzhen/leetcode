@@ -201,3 +201,4 @@
 | 179            | [371C - Hamburgers](https://codeforces.com/problemset/problem/371/C) | 二分查找      | [C++](solutions/__179_hamburgers.cpp)                        | 1600 | 以后大数题还是用Java好                                       |
 | 180            | [129. 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | 二叉树        | [C++](solutions/__180_tree_path_sum.cpp)                     | *    |                                                              |
 | 181            | [706C - Hard problem](https://codeforces.com/problemset/problem/706/C) | 动态规划      | [C++](solutions/__181_reverse_str_for_sort.cpp)              | 1600 | dp[i]\[0/1\]表示第i个字符串不反转/反转的最小排序代价，同时还要注意溢出问题。 |
+| 182            | [1526B - I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | 数学          | [C++](solutions/__182_hate_1111.cpp)                         | 1400 | 问题等价于x == 11a + 111b?(a, b为整数)                       |
