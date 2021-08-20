@@ -203,3 +203,4 @@
 | 181            | [706C - Hard problem](https://codeforces.com/problemset/problem/706/C) | 动态规划      | [C++](solutions/__181_reverse_str_for_sort.cpp)              | 1600 | dp[i]\[0/1\]表示第i个字符串不反转/反转的最小排序代价，同时还要注意溢出问题。 |
 | 182            | [1526B - I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | 数学          | [C++](solutions/__182_hate_1111.cpp)                         | 1400 | 问题等价于x == 11a + 111b?(a, b为整数)                       |
 | 183            | 网易2021笔试-C++开发工程师（提前批）A                        | 递归          | [C++](solutions/__183_netease2021A.cpp)                      | ***  | 暴力可AC                                                     |
+| 184            | 网易2021笔试-C++开发工程师（提前批）D                        | 图论          | [C++](solutions/__184_netease2021D.cpp)                      | **   | tarjan算法入门题                                             |
