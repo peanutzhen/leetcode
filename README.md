@@ -206,3 +206,7 @@
 | 184            | 网易2021笔试-C++开发工程师（提前批）D                        | 图论          | [C++](solutions/__184_netease2021D.cpp)                      | **   | tarjan算法入门题                                             |
 | 185            | [505B - Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B) | DFS/并查集    | [C++](solutions/__185_colorful_graph.cpp)                    | 1400 | 暴力DFS或并查集                                              |
 | 186            | 01字符串中01出现次数相同最长子串                             | 暴力/哨兵     | [C++](solutions/__186_maxlen_sub01array.cpp)                 | ***  | O(n)时间复杂度巧妙                                           |
+| 187            | 2022届网易秋季校园招聘-通用技术A卷 A                         | 暴力          | [C++](solutions/__187_netease2022A.cpp)                      | *    |                                                              |
+| 188            | 2022届网易秋季校园招聘-通用技术A卷 B                         | 模拟          | [C++](solutions/__188_netease2022B.cpp)                      | *    |                                                              |
+| 189            | 2022届网易秋季校园招聘-通用技术A卷 C                         | 益智          | [C++](solutions/__189_netease2022C.cpp)                      | **   | 分配糖果变形题                                               |
+| 190            | 2022届网易秋季校园招聘-通用技术A卷 D                         | DFS           | [Java](solutions/__190_netease2022D.java)                    | *    | 注意起始位置为障碍物也可以这种情形                           |
