@@ -205,3 +205,4 @@
 | 183            | 网易2021笔试-C++开发工程师（提前批）A                        | 递归          | [C++](solutions/__183_netease2021A.cpp)                      | ***  | 暴力可AC                                                     |
 | 184            | 网易2021笔试-C++开发工程师（提前批）D                        | 图论          | [C++](solutions/__184_netease2021D.cpp)                      | **   | tarjan算法入门题                                             |
 | 185            | [505B - Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B) | DFS/并查集    | [C++](solutions/__185_colorful_graph.cpp)                    | 1400 | 暴力DFS或并查集                                              |
+| 186            | 01字符串中01出现次数相同最长子串                             | 暴力/哨兵     | [C++](solutions/__186_maxlen_sub01array.cpp)                 | ***  | O(n)时间复杂度巧妙                                           |
