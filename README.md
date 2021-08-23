@@ -215,3 +215,6 @@
 | 193            | 2022腾讯后台&综合第一场 A                                    | 链表          | [C++](solutions/__193_tencent2022A.cpp)                      | *    |                                                              |
 | 194            | 2022腾讯后台&综合第一场 C                                    | 贪心          | [C++](solutions/__194_tencent2022C.cpp)                      | ***  | 双栈贪心上船                                                 |
 | 195            | 2022腾讯后台&综合第一场 D                                    | 贪心          | [C++](solutions/__195_tencent2022D.cpp)                      | ***  | 推导出贪心结论就很容易                                       |
+| 196            | 2022Shopee笔试第一场 A                                       | 二分查找      | [C++](solutions/__196_shopee2022A.cpp)                       | *    | leetcode34                                                   |
+| 197            | 2022Shopee笔试第一场 B                                       | DFS           | [C++](solutions/__197_shopee2022B.cpp)                       | *    | leetcode200                                                  |
+| 198            | 2022Shopee笔试第一场 C                                       | 链表          | [C++](solutions/__198_shopee2022C.cpp)                       | *    | leetcode25 水b虾皮                                           |
