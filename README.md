@@ -220,3 +220,4 @@
 | 198            | 2022Shopee笔试第一场 C                                       | 链表          | [C++](solutions/__198_shopee2022C.cpp)                       | *    | leetcode25 水b虾皮                                           |
 | 199            | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | 动态规划      | [C++](solutions/__199_longest_common_sequence.cpp)           | **   |                                                              |
 | 200            | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 链表          | [C++](solutions/__200_intersection_list.cpp)                 | *    |                                                              |
+| 201            | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 二分查找      | [C++](solutions/__201_find_peak_element.cpp)                 | *    |                                                              |
