@@ -221,3 +221,4 @@
 | 199            | [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) | 动态规划      | [C++](solutions/__199_longest_common_sequence.cpp)           | **   |                                                              |
 | 200            | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 链表          | [C++](solutions/__200_intersection_list.cpp)                 | *    |                                                              |
 | 201            | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 二分查找      | [C++](solutions/__201_find_peak_element.cpp)                 | *    |                                                              |
+| 202            | [C - Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | 贪心/差分     | [C++](solutions/__202_codeforces169_div2c.cpp)               | 1500 | O(n)统计区间重叠次数很巧妙，注意int会overflow                |
