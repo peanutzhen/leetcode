@@ -225,3 +225,4 @@
 | 203            | [A - Simply Strange Sort](https://codeforces.com/contest/1561/problem/A) | 实现          | [C++](solutions/__203_codeforces740_div2a.cpp)               | 800  |                                                              |
 | 204            | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | 贪心/堆       | [C++](solutions/__204_codeforces740_div2c.cpp)               | 1300 |                                                              |
 | 205            | [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | 递归          | [C++](solutions/__205_bst_remove_node.cpp)                   | **   | 抖音社交三面原题                                             |
+| 206            | 2022网易互娱A                                                | 实现          | [C++](solutions/__206_netease_game2022A.cpp)                 | **   |                                                              |
