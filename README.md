@@ -228,3 +228,4 @@
 | 206            | 2022网易互娱A                                                | 实现          | [C++](solutions/__206_netease_game2022A.cpp)                 | **   |                                                              |
 | 207            | 2022拼多多A                                                  | 贪心+排序     | [C++](solutions/__207_pdd2022A.cpp)                          | *    |                                                              |
 | 208            | 2022拼多多C                                                  | 数学+二分查找 | [C++](solutions/__208_pdd2022C.cpp)                          | ***  | 二分查找木棍能够围的最大正方形边长                           |
+| 209            | [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) | 单调栈        | [C++](solutions/__209_remove_k_digits.cpp)                   | **   | 注意边界情形                                                 |
