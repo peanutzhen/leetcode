@@ -226,3 +226,5 @@
 | 204            | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | 贪心/堆       | [C++](solutions/__204_codeforces740_div2c.cpp)               | 1300 |                                                              |
 | 205            | [450. 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | 递归          | [C++](solutions/__205_bst_remove_node.cpp)                   | **   | 抖音社交三面原题                                             |
 | 206            | 2022网易互娱A                                                | 实现          | [C++](solutions/__206_netease_game2022A.cpp)                 | **   |                                                              |
+| 207            | 2022拼多多A                                                  | 贪心+排序     | [C++](solutions/__207_pdd2022A.cpp)                          | *    |                                                              |
+| 208            | 2022拼多多C                                                  | 数学+二分查找 | [C++](solutions/__208_pdd2022C.cpp)                          | ***  | 二分查找木棍能够围的最大正方形边长                           |
