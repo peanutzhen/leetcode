@@ -20,7 +20,7 @@
 
 |                | 题目                                                         | 类型          | 代码                                                         | 难度 | 备注                                                         |
 | -------------- | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| 1              | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | 二分查找      | [C](solutions/__001_Median_Two_Sorted_Arrays.c)              | **   |                                                              |
+| 1              | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | 二分查找      | [C](solutions/__001_Median_Two_Sorted_Arrays.c)              | **   | 百度一面                                                     |
 | 2              | [546. 移除盒子](https://leetcode-cn.com/problems/remove-boxes/) | 动态规划      | [C](solutions/__002_Drop_Box.c)                              | ***  |                                                              |
 | 3              | [面试题 02.01 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | 益智          | [C++](solutions/__003_Duplicated_Node.cpp)                   | *    |                                                              |
 | 4              | ACM 洪水                                                     | 益智          | [C](solutions/__004_Flooded.c)                               | ***  | 很好玩的一题，抽象思维                                       |
