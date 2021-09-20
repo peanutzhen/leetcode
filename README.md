@@ -231,3 +231,4 @@
 | 209            | [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) | 单调栈        | [C++](solutions/__209_remove_k_digits.cpp)                   | **   | 注意边界情形                                                 |
 | 210            | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 递归          | [C++](solutions/__210_merge_tree.cpp)                        | *    |                                                              |
 | 211            | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 动态规划      | [C++](solutions/__211_divide_same_sum_set.cpp)               | **   |                                                              |
+| 212            | [1293. 网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | BFS           | [C++](solutions/__212_shortest_path.cpp)                     | **   | BFS经典题目，注意和DFS的区别                                 |
