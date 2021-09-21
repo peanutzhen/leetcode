@@ -11,9 +11,9 @@
 
 咨询问题可以联系邮箱或者知乎私信，每天都会看。
 
-- 邮箱：astzls213@163.com
+- 邮箱：astzls213@163.com/astzls213@gmail.com
 
-- 知乎ID：钟海宁
+- 知乎ID：甄洛生
 
 
 ## 目录
@@ -231,4 +231,7 @@
 | 209            | [402. 移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits/) | 单调栈        | [C++](solutions/__209_remove_k_digits.cpp)                   | **   | 注意边界情形                                                 |
 | 210            | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 递归          | [C++](solutions/__210_merge_tree.cpp)                        | *    |                                                              |
 | 211            | [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 动态规划      | [C++](solutions/__211_divide_same_sum_set.cpp)               | **   |                                                              |
-| 212            | [1293. 网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | BFS           | [C++](solutions/__212_shortest_path.cpp)                     | **   | BFS经典题目，注意和DFS的区别                                 |
+| <u>**212**</u> | [1293. 网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | BFS           | [C++](solutions/__212_shortest_path.cpp)                     | **   | BFS经典题目，注意和DFS的区别                                 |
+| 213            | 2022微软A                                                    | 贪心          | [C++](solutions/__213_microsoft2022A.cpp)                    | *    | 微软是题库随机抽，而且是自己设计测试用例                     |
+| 214            | 2022微软B                                                    | 暴力          | [C++](solutions/__214_microsoft2022B.cpp)                    | *    |                                                              |
+| 215            | 2022微软C                                                    | 贪心          | [C++](solutions/__215_microsoft2022C.cpp)                    | ***  | 典型的性价比问题                                             |
