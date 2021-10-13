@@ -237,3 +237,4 @@
 | 215            | 2022微软C                                                    | 贪心          | [C++](solutions/__215_microsoft2022C.cpp)                    | ***  | 典型的性价比问题                                             |
 | 216            | [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | 二叉树/递归   | [C++](solutions/__216_next_pointer.cpp)                      | **   | 利用已连接的next链，递归解法也很巧妙                         |
 | 217            | [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | 二叉树        | [C++](solutions/__217_next_pointer2.cpp)                     | ***  | 引入头节点简化代码设计很巧                                   |
+| 218            | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 数学          | [C++](solutions/__218_yanghui_triangle.cpp)                  | *    |                                                              |
