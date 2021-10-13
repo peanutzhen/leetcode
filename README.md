@@ -235,3 +235,4 @@
 | 213            | 2022微软A                                                    | 贪心          | [C++](solutions/__213_microsoft2022A.cpp)                    | *    | 微软是题库随机抽，而且是自己设计测试用例                     |
 | 214            | 2022微软B                                                    | 暴力          | [C++](solutions/__214_microsoft2022B.cpp)                    | *    |                                                              |
 | 215            | 2022微软C                                                    | 贪心          | [C++](solutions/__215_microsoft2022C.cpp)                    | ***  | 典型的性价比问题                                             |
+| 216            | [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | 二叉树/递归   | [C++](solutions/__216_next_pointer.cpp)                      | **   | 利用已连接的next链，递归解法也很巧妙                         |
