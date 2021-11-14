@@ -4,6 +4,7 @@
 
 # executable files
 bin/
+build/
 
 # python
 __pycache__/

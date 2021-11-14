@@ -1,3 +1,4 @@
+# 用于clion，若使用vscode，则忽略此文件
 cmake_minimum_required(VERSION 3.15)
 project(leetcode)
 

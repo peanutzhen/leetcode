@@ -64,7 +64,7 @@ int main() {
             for (int j = 0; j < (int) info[i].second.size(); ++j) {
                 graph[info[i].second[j]].emplace_back(i, info[j].first);
                 ++in_deg[i];
-                ++out_deg[info[i].second[j]];;
+                ++out_deg[info[i].second[j]];
             }
         }
         // 对于出度为0的任务 指向结束任务
