@@ -239,3 +239,4 @@
 | 217            | [117. 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | 二叉树        | [C++](solutions/__217_next_pointer2.cpp)                     | ***  | 引入头节点简化代码设计很巧                                   |
 | 218            | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | 数学          | [C++](solutions/__218_yanghui_triangle.cpp)                  | *    |                                                              |
 | 219            | [A - Linear Keyboard](https://codeforces.com/contest/1607/problem/A) | 实现          | [C++](solutions/__219_linear_keyboard.cc)                    | *    |                                                              |
+| 220            | [D - Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) | 贪婪          | [C++](solutions/__220_blue_red_permutation.cc)               | **   |                                                              |
